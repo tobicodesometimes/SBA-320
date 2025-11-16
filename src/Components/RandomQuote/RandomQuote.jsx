@@ -9,7 +9,7 @@ const RandomQuote = () => {
   })
 
   return (
-    <div className='Container'> 
+    <div className='container'> 
       <div className="quote">{quote.text}</div>
       <div>
         <div className="line"></div>
