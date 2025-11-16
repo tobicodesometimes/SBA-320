@@ -6,8 +6,8 @@ const BASE_URL = "https://api.animechan.io/v1";
 
 const RandomQuote = () => {
   const [quote, setQuote] = useState({
-    text: "You can't just put hot sauce on everything.",
-    author: "Tobi Onasanya",
+    text: "We'll be back to you shortly with more anime quotes.",
+    author: "Loading...",
   });
 
   const [error, setError] = useState(null);
