@@ -14,5 +14,7 @@ All credit goes to animechan.io for supplying the data needed to achieve this pr
 
 Please do not spam the reload button or refresh too often. Although the API is free to use all API endpoints only come with a default rate limit of 5 requests per hour.
 
+Netlify link: https://legendary-hummingbird-8035e2.netlify.app/
+
 
 
